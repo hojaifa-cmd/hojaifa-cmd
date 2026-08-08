@@ -1,26 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=MD%20Hojaifa%20Hossain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=MD%20Hojaifa%20Hossain&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=52&descSize=20&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Flutter+Developer;3%2B+Years+of+Development+Experience;Cross-Platform+Mobile+App+Developer;Clean+UI+%26+Scalable+Architecture;Firebase+%26+REST+API+Integration" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Flutter+Developer;3%2B+Years+of+Development+Experience;Cross-Platform+Mobile+App+Developer;Clean+UI+%26+Scalable+Architecture;Firebase+%26+REST+API+Integration" alt="Typing SVG" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhojaifahossain6@gmail.com)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2C5364&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-2C5364?style=flat" alt="Experience" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-203A43?style=for-the-badge" alt="Experience" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-203A43?style=flat" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-0F2027?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
 
 </div>
 
 <br/>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif" alt="Flutter dev illustration"/>
 
 I'm a **Flutter Developer** with **3+ years of experience** building production-ready, cross-platform mobile applications for **Android and iOS**. I focus on writing clean, maintainable, and scalable code using modern architecture patterns.
 
@@ -34,9 +45,13 @@ I'm a **Flutter Developer** with **3+ years of experience** building production-
 - 🚀 Focused on **app performance optimization** and smooth user experience
 - 🔧 Comfortable with **Git/GitHub** workflows and collaborative development
 
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
 <br/>
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 **Languages**
 
@@ -84,7 +99,28 @@ I'm a **Flutter Developer** with **3+ years of experience** building production-
 
 <br/>
 
-## GitHub Statistics
+<div align="center">
+
+### Core Proficiency
+
+| Skill | Level |
+|:--|:--|
+| Flutter / Dart | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+| State Management (GetX, BLoC, Riverpod) | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+| Firebase | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+| REST API Integration | ![](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+| Clean Architecture | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+| Laravel / PHP | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=2C5364) |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -103,7 +139,11 @@ I'm a **Flutter Developer** with **3+ years of experience** building production-
 
 <br/>
 
-## Flutter Specialization
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🎯 Flutter Specialization
 
 <table width="100%">
 <tr>
@@ -141,7 +181,11 @@ I'm a **Flutter Developer** with **3+ years of experience** building production-
 
 <br/>
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -216,7 +260,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## Development Practices & Architecture
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🏗️ Development Practices & Architecture
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C5364?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC-2C5364?style=flat-square)
@@ -233,7 +281,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 💼 Experience
 
 ### Flutter Developer
 **3+ Years Experience**
@@ -249,7 +301,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## Currently Learning & Improving
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 📚 Currently Learning & Improving
 
 ![Advanced Flutter Architecture](https://img.shields.io/badge/Advanced%20Flutter%20Architecture-203A43?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-203A43?style=for-the-badge)
@@ -261,7 +317,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -269,7 +329,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
@@ -279,7 +343,11 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-## Contact Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+## 📬 Contact Me
 
 <div align="center">
 
@@ -294,4 +362,12 @@ PROJECT_4_DESCRIPTION
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&text=Let's%20build%20something%20amazing%20together%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<div align="center">
+
+*"Clean code, scalable architecture, and pixel-perfect UI — that's how I build apps."*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer&text=Let's%20build%20something%20amazing%20together%20🚀&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
